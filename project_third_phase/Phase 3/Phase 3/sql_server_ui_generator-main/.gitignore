@@ -1,0 +1,6 @@
+new_structure
+dl
+.vscode
+.venv
+__pycache__
+p3.py
